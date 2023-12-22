@@ -26,3 +26,10 @@ yarn-error.log*
 style-guide.md
 README-template.md
 
+*.sketch
+*.fig
+
+*.xd
+
+.prettierignore
+
