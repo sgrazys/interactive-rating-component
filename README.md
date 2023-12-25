@@ -72,8 +72,8 @@
 
 ### Links
 
--   Solution URL: [https://github.com/sgrazys/13_ping-coming-soon](https://github.com/sgrazys/13_ping-coming-soon)
--   Live Site URL: [https://sgrazys-ping-landing.netlify.app/](https://sgrazys-ping-landing.netlify.app/)
+-   Solution URL: [https://github.com/sgrazys/interactive-rating-component](https://github.com/sgrazys/interactive-rating-component)
+-   Live Site URL: [https://saulius-grazys-rating-component.netlify.app/](https://saulius-grazys-rating-component.netlify.app/)
 
 ### Built With
 
@@ -124,7 +124,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/sgrazys/13_ping-coming-soon.git
+    git clone https://github.com/sgrazys/interactive-rating-component.git
     ```
 2. Install NPM packages
     ```
@@ -168,7 +168,7 @@ Saulius Grazys
 [![Gmail][Gmail]][Gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project Link: [https://sgrazys-ping-landing.netlify.app/](https://sgrazys-ping-landing.netlify.app/)
+Project Link: [https://saulius-grazys-rating-component.netlify.app/](https://saulius-grazys-rating-component.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,7 +187,7 @@ Project Link: [https://sgrazys-ping-landing.netlify.app/](https://sgrazys-ping-l
 [license-url]: https://github.com/sgrazys/to-do-list/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/saulius-grazys/
-[product-screenshot]: ./src/design/ping-landing-page-sol-screens.png
+[product-screenshot]: ./public/design/rating-component.png
 
 <!--  -->
 
